@@ -6,4 +6,4 @@
 ![gambar](praktikum9/praktikum.png)
 
 ## Flowchart
-![gambar](praktikum9/flowchart.png)
+![gambar](praktikum9/Flowchart.png)
